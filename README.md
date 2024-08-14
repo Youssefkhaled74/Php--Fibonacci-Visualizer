@@ -11,9 +11,9 @@ The Fibonacci Sequence Generator is a PHP application that generates the Fibonac
 ## Installation and Setup
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/fibonacci-sequence-generator.git
+    git clone https://github.com/Youssefkhaled74/fibonacci-sequence-generator.git
     ```
-2. Navigate to the project directory:
+2. Navigate to the project directory
     ```bash
     cd fibonacci-sequence-generator
     ```
